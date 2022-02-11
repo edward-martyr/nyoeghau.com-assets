@@ -1,0 +1,164 @@
+::selection {
+  background: $selection-bg;
+  color: $selection-color;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background: var(--body-bg-color);
+  box-sizing: border-box;
+  color: var(--text-color);
+  font-family: $font-family-base;
+  font-feature-settings: $font-feature-settings;
+  font-size: $font-size-base;
+  line-height: $line-height-base;
+  min-height: 100%;
+  position: relative;
+  transition: padding $transition-ease;
+
+  if (hexo-config('body_scrollbar.overlay')) {
+    overflow-x: hidden;
+    @supports (overflow-x: clip) {
+      overflow-x: clip;
+    }
+    width: 100vw;
+  }
+
+  if (hexo-config('body_scrollbar.stable')) {
+    overflow-y: scroll;
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-family-headings;
+  font-feature-settings: $font-feature-settings;
+  font-weight: bold;
+  line-height: 1.5;
+  margin: 30px 0 15px;
+}
+
+for $headline in (1 .. 6) {
+  h{$headline} {
+    font-size: $font-size-headings-base - $font-size-headings-step * $headline;
+  }
+}
+
+blockquote:not(:last-child) p:last-child, 
+p {
+  margin: 0 0 20px;
+}
+
+p:last-child {
+  margin: 0 0 0 0;
+}
+
+a {
+  border-bottom: 1px solid $link-decoration-color;
+  color: var(--link-color);
+  // For a:not(:any-link)
+  cursor: pointer;
+  outline: 0;
+  text-decoration: none;
+  word-wrap();
+
+  &:hover {
+    border-bottom-color: var(--link-hover-color);
+    color: var(--link-hover-color);
+  }
+}
+
+iframe, img, video, embed {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+}
+
+hr {
+  // background-image: repeating-linear-gradient(-45deg, $grey-lighter, $grey-lighter 4px, transparent 4px, transparent 8px);
+  // border: 0;
+  // height: 3px;
+  // margin: 40px 0;
+  all: initial;
+}
+
+// replace <hr> with ornament
+.hr {
+  border-bottom: 1px solid $black-deep; 
+  line-height: 0.1em;
+  margin: 2.5em 2.5em;
+  text-align: center;
+  font-feature-settings: 'ornm' 21;
+}
+.hr::after {
+  background: var(--content-bg-color); 
+  padding: 0 2em; 
+  content: '•';
+}
+
+blockquote {
+  border-left: 4px solid $grey-lighter;
+  color: var(--blockquote-color);
+  margin: 0;
+  padding: 0 15px;
+
+  cite::before {
+    content: '-';
+    padding: 0 5px;
+  }
+}
+
+dt {
+  font-weight: bold;
+}
+
+dd {
+  margin: 0;
+  padding: 0;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.kanbun svg text {
+  font-family: $font-family-kanbun
+  font-variant-east-asian: ruby; -moz-font-feature-settings: "ruby"; -webkit-font-feature-settings: "ruby"; 
+  font-feature-settings: $font-feature-settings-kanbun
+  direction: ltr; // svg created by inkscape only works in ltr
+}
+
+.kanbun {
+  overflow-y: scroll;
+}
+
+.scrollable-vertical-text p {
+  margin: 0 0 0 20px;
+}
+
+.scrollable-vertical-text p:last-child {
+  margin: 0 0 0 0;
+}
+
+.scrollable-vertical-text {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  max-height: 90vh;
+  overflow-x: scroll;
+  overflow-y: auto;
+  font-feature-settings: $font-feature-settings-vert
+}
+
+.small {
+  font-size: 80%;
+}
+
+rt {
+  font-variant-east-asian: ruby; -moz-font-feature-settings: "ruby"; -webkit-font-feature-settings: "ruby"; 
+  font-feature-settings: $font-feature-settings-ruby
+}
