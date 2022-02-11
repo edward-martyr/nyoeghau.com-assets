@@ -26,7 +26,7 @@ More importantly, it accepts input with light markup in the “*kanbun* annotati
 ### English
 
 <!-- <a onclick="window.open('/files/kanbun-en.pdf')">Download</a> -->
-<a href="{{- cdn_asset('/files/kanbun-en.pdf') }}">Download</a>
+<!-- <a href="{{- cdn_asset('/files/kanbun-en.pdf') }}">Download</a> -->
 <!-- {% asset_link /files/kanbun-en.pdf Download %} -->
 <!-- [Download](/files/kanbun-en.pdf) -->
 
