@@ -1,5 +1,5 @@
 ---
-title: 「<ruby>盗作<rt>Plagarism</rt></ruby>」歌詞與翻譯⸺ヨルシカ
+title: 「<ruby>盗作<rp>(</rp><rt>Plagarism</rt><rp>)</rp></ruby>」歌詞與翻譯⸺ヨルシカ
 category: [Language, Japanese]
 tags: [Music, Japanese, Yorushika, Shanghainese, Wuu, Dialect Art, Translation]
 ---

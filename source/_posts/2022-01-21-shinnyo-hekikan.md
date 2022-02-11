@@ -1,5 +1,5 @@
 ---
-title: 「<ruby>神女劈観<rt>しんにょへきかん</rt></ruby>」漢文訓読
+title: 「<ruby>神女劈観<rp>(</rp><rt>しんにょへきかん</rt><rp>)</rp></ruby>」漢文訓読
 category: [Language, Japanese, Kanbun]
 tags: [Japanese, Chinese, Genshin, Peking Opera, Kanbun, kanbun, luatexja, Typography, Lua, Kanbun Annotation]
 keywords: 神女劈観,漢文訓読,神女劈观,神女劈觀,kanbun,luatexja,漢文訓読,漢文

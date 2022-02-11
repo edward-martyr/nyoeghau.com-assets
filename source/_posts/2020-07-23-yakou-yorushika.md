@@ -1,5 +1,5 @@
 ---
-title: 「<ruby>夜行<rt>Night Journey</rt></ruby>」歌詞與翻譯⸺ヨルシカ
+title: 「<ruby>夜行<rp>(</rp><rt>Night Journey</rt><rp>)</rp></ruby>」歌詞與翻譯⸺ヨルシカ
 category: [Language, Japanese]
 tags: [Music, Japanese, Yorushika, Translation]
 ---

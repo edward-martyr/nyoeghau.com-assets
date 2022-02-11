@@ -1,5 +1,5 @@
 ---
-title: 「<ruby>白ゆき<rt>Snow White</rt></ruby>」歌詞與翻譯⸺ナブナ
+title: 「<ruby>白ゆき<rp>(</rp><rt>Snow White</rt><rp>)</rp></ruby>」歌詞與翻譯⸺ナブナ
 category: [Language, Japanese]
 tags: [Music, Japanese, n-buna, Shanghainese, Wuu, Dialect Art, Translation]
 ---

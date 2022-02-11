@@ -1,5 +1,5 @@
 ---
-title: 「<ruby>春泥棒<rt>Spring Thief</rt></ruby>」歌詞與翻譯⸺ヨルシカ
+title: 「<ruby>春泥棒<rp>(</rp><rt>Spring Thief</rt><rp>)</rp></ruby>」歌詞與翻譯⸺ヨルシカ
 category: [Language, Japanese]
 tags: [Music, Japanese, Yorushika, Shanghainese, Wuu, Dialect Art, Translation]
 ---
