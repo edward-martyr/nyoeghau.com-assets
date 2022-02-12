@@ -18,8 +18,8 @@ for (var element of title_elements) {
     // element.textContent = element.textContent.replace(ruby_rt_re, '$1($2)');
     element.textContent = element.textContent.replace(tag_re, '');
 }
-// in meta tags,
-var meta_elements = document.getElementsByTagName("title");
-for (var element of meta_elements) {
-    element.setAttribute('content', element.getAttribute('content').replace(tag_re, ''));
-}
+// // in meta tags,
+// var meta_elements = document.getElementsByTagName("title");
+// for (var element of meta_elements) {
+//     element.setAttribute('content', element.getAttribute('content').replace(tag_re, ''));
+// }
