@@ -16,7 +16,7 @@ const otherBrackets = {
     '‘': '’', // multiple kanji as a single ruby base
     '“': '”', // unit (usually contains only one kanji)
 };
-const punctuationStr = '〻―・、，。…「」『』';
+const punctuationStr = '〻―㆐・、，。…「」『』';
 
 function isKana(str) {
     let code = str.charCodeAt();
@@ -79,6 +79,7 @@ function toHTML(str) {
     str = str.replace(/⦊/g, '</span>');
     str = str.replace(/(punctuation">)(〻)/g, 'ninojiten $1<sup>$2</sup>');
     str = str.replace(/(punctuation">―)/g, 'dash $1');
+    str = str.replace(/(punctuation">㆐)/g, 'dash $1');
     str = str.replace(/(punctuation">…)/g, 'ellipsis $1');
     str = str.replace(/(punctuation">[」』])/g, 'right-corner-bracket $1');
 
