@@ -3,13 +3,8 @@ title: 「大東亞戰爭終結ノ詔書」漢文訓読
 category: [Language, Japanese, Kanbun]
 tags: [Japanese, Chinese, WWII, Potsdam, Japanese Emperor, War, Kanbun, kanbun, luatexja, Typography, Lua, Kanbun Annotation]
 keywords: 神女劈観,漢文訓読,神女劈观,神女劈觀,kanbun,luatexja,漢文訓読,漢文
+layout: kanbun
 ---
-
-<!-- <div class="center">
-<div class="kanbun scrollable-vertical-text" alt="大東亞戰爭終結ノ詔書">
-md /files/test.svg
-</div>
-</div> -->
 
 <div class="center">
 <div class="kanbun scrollable-vertical-text betagumi" alt="大東亞戰爭終結ノ詔書" id="大東亞戰爭終結ノ詔書" style="text-align: justify;justify-content: space-around;">
@@ -21,8 +16,6 @@ md /files/test.svg
 </div>
 </div>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/edward-martyr/nyoeghau.com-assets@latest/css/kanbun.css">
-<script src="https://cdn.jsdelivr.net/gh/edward-martyr/nyoeghau.com-assets@latest/js/kanbun.js"></script>
 <script>convertKanbunDiv(document.getElementById("大東亞戰爭終結ノ詔書"));</script>
 
 <!-- more -->
