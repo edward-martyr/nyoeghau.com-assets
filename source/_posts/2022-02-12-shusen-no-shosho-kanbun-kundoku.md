@@ -6,6 +6,16 @@ keywords: 神女劈観,漢文訓読,神女劈观,神女劈觀,kanbun,luatexja,�
 layout: kanbun
 ---
 
+## L<span style="text-transform:uppercase; font-size:0.75em; vertical-align:0.25em; margin-left:-0.36em; margin-right:-0.15em; line-height:1ex;">a</span>T<span style="text-transform:uppercase; vertical-align:-0.5ex; margin-left:-0.1667em; margin-right:-0.125em; line-height:1ex;">e</span>X version
+
+Typeset with the L<span style="text-transform:uppercase; font-size:0.75em; vertical-align:0.25em; margin-left:-0.36em; margin-right:-0.15em; line-height:1ex;">a</span>T<span style="text-transform:uppercase; vertical-align:-0.5ex; margin-left:-0.1667em; margin-right:-0.125em; line-height:1ex;">e</span>X package [`kanbun`](/kanbun-latex). The PDF output is here [大東亞戰爭終結ノ詔書](/files/大東亞戰爭終結ノ詔書.pdf).
+
+## HTML version
+
+The web version is typeset with [漢文 HTML](https://phesoca.com/kanbun-html/).
+
+<!-- more -->
+
 <div class="center">
 <div class="kanbun scrollable-vertical-text betagumi" alt="大東亞戰爭終結ノ詔書" id="大東亞戰爭終結ノ詔書" style="text-align: justify;justify-content: space-around;">
 <p>朕深ク鑑ミ[三]世界ノ大勢ト與[二]ニ帝國ノ現狀[一]，欲シ[下]以テ[二]非常ノ措置ヲ[一]收[中]㆐拾セムト時局ヲ[上]，茲ニ告ク[下]爾[二]忠良ナル[一]臣民ニ[上]。</p>
@@ -18,13 +28,7 @@ layout: kanbun
 
 <script>convertKanbunDiv(document.getElementById("大東亞戰爭終結ノ詔書"));</script>
 
-<!-- more -->
-
 ## 漢文アノテーション (*Kanbun* Annotation)
-
-The web version is typeset with [漢文 HTML](https://phesoca.com/kanbun-html/).
-
-For a more complete version typeset with the L<span style="text-transform:uppercase; font-size:0.75em; vertical-align:0.25em; margin-left:-0.36em; margin-right:-0.15em; line-height:1ex;">a</span>T<span style="text-transform:uppercase; vertical-align:-0.5ex; margin-left:-0.1667em; margin-right:-0.125em; line-height:1ex;">e</span>X package [`kanbun`](/kanbun-latex), see [大東亞戰爭終結ノ詔書](/files/大東亞戰爭終結ノ詔書.pdf).
 
 ```latex
 \Kanbun
