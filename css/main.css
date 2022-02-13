@@ -321,6 +321,9 @@ rt {
   -webkit-font-feature-settings: "ruby";
   font-feature-settings: "palt" off, "pkna" off, "vpal" off, "ruby" on;
 }
+.jlreq-indentation {
+  text-indent: 1em;
+}
 .table-container {
   overflow: auto;
 }
