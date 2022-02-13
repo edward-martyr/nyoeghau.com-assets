@@ -253,18 +253,6 @@ embed {
 hr {
   all: initial;
 }
-.hr {
-  border-bottom: 1px solid #222;
-  line-height: 0.1em;
-  margin: 2.5em 2.5em;
-  text-align: center;
-  font-feature-settings: 'ornm' 21;
-}
-.hr::after {
-  background: var(--content-bg-color);
-  padding: 0 2em;
-  content: '•';
-}
 blockquote {
   border-left: 4px solid #ddd;
   color: var(--blockquote-color);
@@ -297,6 +285,7 @@ dd {
 }
 .kanbun {
   overflow-y: scroll;
+  text-align: justify;
 }
 .scrollable-vertical-text p {
   margin: 0 0 0 20px;
