@@ -5,11 +5,26 @@ tags: [Japanese, Chinese, WWII, Potsdam, Japanese Emperor, War, Kanbun, kanbun, 
 keywords: 神女劈観,漢文訓読,神女劈观,神女劈觀,kanbun,luatexja,漢文訓読,漢文
 ---
 
-<div class="center">
+<!-- <div class="center">
 <div class="kanbun scrollable-vertical-text" alt="大東亞戰爭終結ノ詔書">
-<!-- md /files/shusennoshosho.svg -->
+md /files/test.svg
+</div>
+</div> -->
+
+<div class="center">
+<div class="kanbun scrollable-vertical-text akigumi" alt="大東亞戰爭終結ノ詔書" id="大東亞戰爭終結ノ詔書">
+<p>感ジテハ[レ]時ニ花ニモ濺(そそ)ギ[レ]淚ヲ，恨ミデハ[レ]別レヲ鳥ニモ驚カス[レ]心ヲ。
+使メバ[人]籍(せき)ヲシテ誠ニ不[乙]以テ[下]畜(やしな)ヒ[二]妻子ヲ[一]，憂フルヲ[中]饑(き)寒(かん)ヲ[上]亂サ[甲レ]心ヲ，有リテ[二]錢財[一]以(もつ)テ濟(な)サ[地]醫藥ヲ[天]…
+子曰ク，盍ゾ«ル»[三]各〻言ハ[二]爾ノ志ヲ[一]。
+孤之有ルハ[二]孔明[一]，猶ホ‹ごと›«キ»[二]魚之有ルガ[一レ]水也。
+此レ乃チ信(しん)之‘所―[三]以’(ゆゑん)為ル[二]陛下ノ禽(とりこ)ト[一]也。</p>
 </div>
 </div>
+
+<link rel="stylesheet" href="/css/kanbun.css">
+<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/edward-martyr/nyoeghau.com-assets@latest/css/kanbun.css"> -->
+<script src="https://cdn.jsdelivr.net/gh/edward-martyr/nyoeghau.com-assets@latest/js/kanbun.js"></script>
+<script>convertKanbunDiv(document.getElementById("大東亞戰爭終結ノ詔書"));</script>
 
 <!-- more -->
 

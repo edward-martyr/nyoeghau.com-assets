@@ -1,9 +1,9 @@
 const brackets = {
     '(': ')', // furigana
-    '[': ']', // okurigana (these brackets can be omitted)
-    '{': '}', // kaeriten
-    '‹': '›', // furigana for saidokumoji
-    '«': '»', // okurigana for saidokumoji
+    '{': '}', // okurigana (these brackets can be omitted)
+    '‹': '›', // furigana of saidokumoji
+    '«': '»', // okurigana of saidokumoji
+    '[': ']', // kaeriten
     //'<': '>', // HTML tag
 };
 const leftBrackets = Object.keys(brackets);
@@ -16,7 +16,7 @@ const otherBrackets = {
     '‘': '’', // multiple kanji as a single ruby base
     '“': '”', // unit (usually contains only one kanji)
 };
-const punctuationStr = '〻―㆐・、，。…「」『』';
+const punctuationStr = '〻―・、，。…「」『』';
 
 function isKana(str) {
     let code = str.charCodeAt();
@@ -63,6 +63,7 @@ function toHTML(str) {
     str = str.replace(/(unit">‘([^⌊’]*⌊){2}[^⌊’]*’)/g, 'has-2-kanji $1');
     str = str.replace(/(unit">‘([^⌊’]*⌊){3}[^⌊’]*’)/g, 'has-3-kanji $1');
     str = str.replace(/(unit">(‘[^’]*’)?[^‘”]*\()/g, 'has-furigana $1');
+    str = str.replace(/(unit">(‘[^’]*’)?[^‘”]*\([^\)]\))/g, 'has-only-1-furigana $1');
     str = str.replace(/(unit">(‘[^’]*’)?[^‘”]*\([^\)][^\)]?\))/g, 'has-less-than-3-furigana $1');
     str = str.replace(/(unit">(‘[^’]*’)?[^‘”]*”[^‘”]*has-furigana)/g, 'next-unit-has-furigana $1');
     str = str.replace(/(unit">(‘[^’]*’)?[^‘”]*\{)/g, 'has-okurigana $1');
@@ -78,7 +79,6 @@ function toHTML(str) {
     str = str.replace(/⦊/g, '</span>');
     str = str.replace(/(punctuation">)(〻)/g, 'ninojiten $1<sup>$2</sup>');
     str = str.replace(/(punctuation">―)/g, 'dash $1');
-    str = str.replace(/(punctuation">㆐)/g, 'dash $1');
     str = str.replace(/(punctuation">…)/g, 'ellipsis $1');
     str = str.replace(/(punctuation">[」』])/g, 'right-corner-bracket $1');
 

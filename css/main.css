@@ -295,9 +295,6 @@ dd {
   font-feature-settings: 'palt' off, 'pkna' off, "vpal" off, 'fwid' on, 'trad' on, 'ruby' on;
   direction: ltr;
 }
-.kanbun {
-  overflow-y: scroll;
-}
 .scrollable-vertical-text p {
   margin: 0 0 0 20px;
 }
@@ -307,7 +304,7 @@ dd {
 .scrollable-vertical-text {
   writing-mode: vertical-rl;
   text-orientation: mixed;
-  max-height: 90vh;
+  max-height: 80vh;
   overflow-x: scroll;
   overflow-y: auto;
   font-feature-settings: "fwid" on, "lnum" on, "vkrn" on, "liga" on, "palt" on, "vpal" on, "vert" on;
