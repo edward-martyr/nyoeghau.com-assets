@@ -29,13 +29,13 @@ Her face seems very cute; the area around her eyebrows was faintly beautiful; th
 The nun, repeatedly stroking the girl's hair gently, said, “although you seem to find combing annoying, look how charming your hair is. It exactly because you do silly things that I pity and worry about you. When people become around your age, there are also people who are not so silly, but you are not one of them. My late daughter understood things fairly well at twelve when my husband passed away! But now, if I were to leave you behind, how would you manage to live in the world?” Seeing the nun crying, Genji also felt somehow sad. Even with her childish heart, the girl looked intently at the nun, and looked face, with her eyes turned down; her falling hair looked shiny and very beautiful.
 
 The nun:
->The dew that leave the young grass
->that does not know where it will grow
+>The dew that leave the young grass<br>
+>that does not know where it will grow<br>
 >is not in the state of mind to leave.
 
 Another sitting servant said, “totally”, and cried,
->When the new grass does not know
->where it will grow
+>When the new grass does not know<br>
+>where it will grow<br>
 >how can the dew think of disappearing?
 
 As she was saying, the bishop came from afar, said, “Is it not totally exposed in here! Ah, only today, you are sitting by the porch! I just heard that Genji, the Chujo, came to this High Saint's place to pray for the protection from malaria. Because he came very secretly, I have not paid a visit to him while being here.”
