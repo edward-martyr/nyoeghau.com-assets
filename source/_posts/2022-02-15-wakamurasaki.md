@@ -24,7 +24,7 @@ The nun said, “oh, my, how childish! She is so fond of sparrows that she does 
 
 The nun said, “come here!”, and Murasaki came and knelt down.
 
-Her face seems very cute; the area around her eyebrows was faintly beautiful; the outline of her forehead where she had childishly brushed back and the style of her hair was extremely adorable. “Her appearance as she grows up must be attractive”, Genji thought as his eyes were attracted by the girl. “I find myself staring at this person who very closely resembles the one whom I whole-heartedly long for”, Genji even wept as he thought so.
+Her face seemed very cute; the area around her eyebrows was faintly beautiful; the outline of her forehead where she had childishly brushed back and the style of her hair was extremely adorable. “Her appearance as she grows up must be attractive”, Genji thought as his eyes were attracted by the girl. “I find myself staring at this person who very closely resembles the one whom I whole-heartedly long for”, Genji even wept as he thought so.
 
 The nun, repeatedly stroking the girl's hair gently, said, “although you seem to find combing annoying, look how charming your hair is. It exactly because you do silly things that I pity and worry about you. When people become around your age, there are also people who are not so silly, but you are not one of them. My late daughter understood things fairly well at twelve when my husband passed away! But now, if I were to leave you behind, how would you manage to live in the world?” Seeing the nun crying, Genji also felt somehow sad. Even with her childish heart, the girl looked intently at the nun, and looked face, with her eyes turned down; her falling hair looked shiny and very beautiful.
 
@@ -40,8 +40,8 @@ Another sitting servant said, “totally”, and cried,
 
 As she was saying, the bishop came from afar, said, “Is it not totally exposed in here! Ah, only today, you are sitting by the porch! I just heard that Genji, the Chujo, came to this High Saint's place to pray for the protection from malaria. Because he came very secretly, I have not paid a visit to him while being here.”
 
-Then the nun said, “ah, it must be terrible. Did people see his strange looks?”, and lowered the blind.
+Then the nun said, “ah, it must be terrible. Did someone see our strange looks?”, and lowered the blind.
 
-The bishop said, “will you not take this chance to visit Hikaru Genji, who has stirred the world? He looks like a priest who has forgotten about the world, and very like a person who has forgotten the troubles of the world and carry a long-lived life. Please, go and greet him.”
+The bishop said, “will you not take this chance to visit Hikaru Genji, who has made a fame in the world? He looks like a priest who has forgotten about the world, and very like a person who has forgotten the troubles of the world and carry a long-lived life. Please, go and greet him.”
 
 When the nun made the sound of standing up, Genji returned. “I ended up seeing an adorable person. Because such happens, the lechers all just take walks like this, and often find women who are unexpectedly attractive. Even if you just take a walk, it could happen that you find something unexpected like this by chance.” Genji interestedly thought. “Even so, that was such an adorable child! What person would she be? I wish to see her as a substitute for that person, even if just for my solace for day and night”, he thought, and became deeply interested.
