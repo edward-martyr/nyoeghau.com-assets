@@ -42,6 +42,6 @@ As she was saying, the bishop came from afar, said, “Is it not totally exposed
 
 Then the nun said, “ah, it must be terrible. Did someone see our strange looks?”, and lowered the blind.
 
-The bishop said, “will you not take this chance to visit Hikaru Genji, who has made a fame in the world? He looks like a priest who has forgotten about the world, and very like a person who has forgotten the troubles of the world and carry a long-lived life. Please, go and greet him.”
+The bishop said, “will you not take this chance to visit Hikaru Genji, who has made a fame in the world? Even for a priest who has gotten rid of the world, Genji is a person who has forgotten the troubles of the world and his appearance will make us live a longer life. Well, I shall go and greet him.”
 
 When the nun made the sound of standing up, Genji returned. “I ended up seeing an adorable person. Because such happens, the lechers all just take walks like this, and often find women who are unexpectedly attractive. Even if you just take a walk, it could happen that you find something unexpected like this by chance.” Genji interestedly thought. “Even so, that was such an adorable child! What person would she be? I wish to see her as a substitute for that person, even if just for my solace for day and night”, he thought, and became deeply interested.
