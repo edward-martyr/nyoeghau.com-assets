@@ -1,5 +1,5 @@
 ---
-title: The <emph>ebusshi</emph> Yoshihide happily watched his house burn
+title: The <em>ebusshi</em> Yoshihide happily watched his house burn (絵仏師良秀家の焼くるを見て悦ぶ事)
 category: [Language, Japanese, Wabun]
 tags: [Japanese, Wabun, Ebusshi, Yoshihide, Monogatari, English, Translation, Buddhism]
 keywords: buddhism, Ebusshi, Yoshihide, Monogatari, Japanese, 絵仏師, 良秀, 物語, 絵仏師良秀家の焼くるを見て悦ぶ事
