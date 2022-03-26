@@ -12,6 +12,8 @@ Inside, Genji saw that one girl, who seemed to be around ten, wearing a well-wor
 It would be inappropriate to compare her with the other children he had seen, and he could see that she would become an extremely beautiful woman.
 She stood with her hair, like an opened fan, swinging in the air, and her face rubbed deliberately in red.
 
+<!-- more -->
+
 The nun said, “what's going on here! Do you want to fight the young children?” When the nun raised her head, he saw that there were some resemblances between them, and thought, “it seems that the girl is her child.”
 
 Murasaki said, “Inuki released the sparrow baby, even though I had placed it inside the basket!” She felt very regretful.

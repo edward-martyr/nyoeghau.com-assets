@@ -9,6 +9,8 @@ He firmly stepped his stirrups and stood up, and announced his name in a great v
 
 Ichijo no Jiro said, “the one who announced his name was the Great General. Don't overlook anyone, people; don't let anyone escape, you young samurais. Attack!” And they surrounded Kiso with a big crowd, and each one wanted to kill Kiso themselves.
 
+<!-- more -->
+
 The three hundred or so horsemen of Kiso, surrounded by six thousand or so horsemen, moved and cut through vertical directions, horizontal directions, opposite directions, moving their weapons in crossed directions. When they hurriedly got out towards the back, they became around fifty horsemen. As they tore through the enemies there, around two thousand horsemen of Tohi no Jiro Sanehira were guarding there.
 
 When they broke through that, they rode and cut through about four to five hundred horsemen over there, and they rode and cut through about two to three hundred, then a hundred and forty to fifty, and then a hundred horsemen over here. Then, they were left with only five horsemen including Kiso and his followers. The enemies didn't manage to defeat Tomoe among the five horsemen.
