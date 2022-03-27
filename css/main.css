@@ -325,6 +325,9 @@ rt {
 .jlreq-indentation {
   text-indent: 1em;
 }
+.fixed {
+  font-feature-settings: "kern" on, "liga" on, "palt" off, "vpal" off;
+}
 .table-container {
   overflow: auto;
 }
